@@ -26,13 +26,11 @@ The following **optional** features are implemented:
 
 
 ## Video Walkthrough
+Here's a walkthrough of implemented user stories:
 
-![threeGuesses](https://github.com/Angel-cast/Wordle/assets/143471606/089e97d9-eec7-4447-bb6b-85590928bd3c)
-
-![restart](https://github.com/Angel-cast/Wordle/assets/143471606/4d23c3f3-08f5-451f-9e1f-a005f54648c9)
-
-![errors](https://github.com/Angel-cast/Wordle/assets/143471606/5cbd1a75-ec48-457b-a5cb-873ac63e39f4)
-
+<img src='WalkThrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='WalkThrough_Restart.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='WalkThrough_Errors.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ScreenToGif  
 
