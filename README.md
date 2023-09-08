@@ -40,7 +40,7 @@ This was my first time using Android Studios and I am new to writting code in Ko
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Angel Castro]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
